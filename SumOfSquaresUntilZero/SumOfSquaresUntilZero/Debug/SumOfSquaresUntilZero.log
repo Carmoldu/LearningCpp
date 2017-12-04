@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\docs\docs\programes\c++practicing\sumofsquaresuntilzero\sumofsquaresuntilzero\source.cpp(14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SumOfSquaresUntilZero.vcxproj -> E:\Docs\Docs\Programes\C++Practicing\SumOfSquaresUntilZero\Debug\SumOfSquaresUntilZero.exe
